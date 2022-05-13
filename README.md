@@ -32,7 +32,7 @@ The Libero designs include the following features:
 
 ## Target Hardware
 Details of the PolarFire FPGA Splash-Kit and it's features can be found:
-* [PolarFire-Splash-Kit](https://www.microsemi.com/existing-parts/parts/144001) (MPF300TS_ES)
+* [PolarFire-Splash-Kit](https://www.microsemi.com/existing-parts/parts/150866) (MPF300TS)
 
 # FlashPro Express
 The FlashPro_Express_Projects folder contains the pre-generated programming files, which can be downloaded directly to the target board using FlashPro Express.
